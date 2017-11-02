@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "daring-leaf-166819",
+  "private_key_id": "a4398d4edde1bebbe86107e45dd9dc47cadcfa11",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDivAz6uIYopKB3\nWI7E37eU79DWFQeKcHlHo4QsJHCT99yART0qXQa/o1sz/juvnMWIqh060MFf0iDV\nzg9nbKa0decXcuLMu//O0DnH5H0RWhagyjF1GPvcUvV/XYDgOV82AKB9LrplIoma\n+pn+SzioP2NUrahANgSTzrJWeGd+8Sh4dlqJQ6ji+xBeGECY6aMbWn4HeCd3G9Oy\nQ/r4GuQBMaQh03TEL3cbl8vuxThY3OTKrPTgQhWaXtAaAbsaAAqNXk7J8vUFauGn\n+azeXatGhypqTL1grv+wWgweiehsaZ7RKZmnozJAPu8CtdAiYE7OOH4GRpk2tQyx\n6eudxXslAgMBAAECggEABEP4WPDCsAjJ5ixa3eiBreqwRV0uDN714r2rk9Mm39cY\nbe+9ZRvVUd5v8gKYJal+kqhKPMBcHI8b2W4iDWNjW8D3SGemXoR2HUepkMB6v7ta\njAbGCDh11qusmvG82TbH5cTaUSb69rm3epxjhcyG4L4YApB63F+42co2F1spmFrw\n1I8J2Yw0gdu3S6faHuoSHNe2KApj919TFIu1AWb1gGZDaAnUJEj8C+D5UuTst2GI\nL0ZDjlalPFLXvJH8ZIyhHH+I+zx/+qj//wAbJ4AP4dLV2Hi3LZfnDXxZalWbariq\nXmrnASw6dHb+fKGsaP9XAT0m0X37NyM6LbBaHsnQGQKBgQD1/N3bIX53GicmBmoQ\n2NhAXYrC6Q/eIWIJcKuWUviFD7xDAX8cXczXS0EVmeDEFGl6U4n4TTZCP3+KjMIT\nRP0pL4Gy+nGicvj3fgocH/5bKNFvsTbDsgGXB886SdJRbahFlzrHCjE4lJ+g7IIu\nNPMlWOlD2LjiDh2f0oOckkfUnwKBgQDr9pILnf49uykcVUFLOG2//M2Hu26Rx4vS\nlqxAz/EubzktiuFjj5hm77cN5dpf8FIsemS0IxNHNTRqzHuPG/ns9DGR9fTDrBJL\nSBAsacO+IYUStddJdfLYoaJw/IlvjzJaODOg2Z/0J9jUdnSkK0U9fhSpjt1+gUGw\ngoSpwI/1uwKBgADmnClhRgVJozsQavME2EXkEc4E7HnzxVgjgX1bcG2MUTQtnTmN\nXmKrc+GQXrJZIMnB5I90OO6lLOJlAZDwf7zW37K4GBJwOVkurPrNYzESRTIThA/T\nZw4WiTu9aXfC3wriMuTntKZwZOVB+HgS2ZEZckE9We/5/UHIk5LPNlQhAoGBAIci\nzl9i24FFF/VHCj7nEUu7n4XVnSxWCMjRS9NOg8ThI/DmMdDQIysIrGCEO/1n59fb\nPKNB1z+Xw+5KL5U1I3xGGcGLB+OsP0nn+oNFCzpvfgPKKoLCzxKr9xkYOCmw69hp\niX/cQtQUogSD1qdStLPT6kd1L3rM0e8hwJJrWscTAoGAECwvOelxXU9HCYZryVm9\nEpxI8CeeszGmVPzTZESIuqx12LMSkYARwnQ+pTA3Od1t1EEq6Twq6sBHurS2zTBN\n4JJh/fsNfxQTbLcGPKl2O0V+WGW4RwtqK3Wuo6R3SQ14Q46iZHDpXrNfGdko/U33\nBF3d7Qgc3vKEJeFKw3XlPgc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pyclass-summer-2017@daring-leaf-166819.iam.gserviceaccount.com",
+  "client_id": "107112060181698585484",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pyclass-summer-2017%40daring-leaf-166819.iam.gserviceaccount.com"
+}
